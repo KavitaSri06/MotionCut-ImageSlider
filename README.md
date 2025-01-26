@@ -5,4 +5,4 @@
 - **CSS**: For styling the slider and adding animations.
 - **JavaScript**: For handling navigation controls and auto-sliding functionality.
 **Output**:
-  ![Image](https://github.com/user-attachments/assets/087346b9-ba9a-480d-a3dd-682f8cd81b85)
+  ![Image](https://github.com/user-attachments/assets/087346b9-ba9a-480d-a3dd-682f8cd81b85) 
